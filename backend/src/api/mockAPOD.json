@@ -1,0 +1,9 @@
+{
+  "date": "2025-11-26",
+  "explanation": "This is a mock explanation of the Astronomy Picture of the Day. The NASA API is currently down, so this is placeholder data.",
+  "hdurl": "https://apod.nasa.gov/apod/image/2101/MarsPerseverance.jpg",
+  "media_type": "image",
+  "service_version": "v1",
+  "title": "Mock APOD Example",
+  "url": "https://apod.nasa.gov/apod/image/2101/MarsPerseverance.jpg"
+}
