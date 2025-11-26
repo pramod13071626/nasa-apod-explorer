@@ -163,7 +163,7 @@ Submit a Pull Request
 Ensure .env is never committed
 
 📄 License
-his project is licensed under the **MIT License**.
+This project is licensed under the **MIT License**.
 
 🙌 Acknowledgements
 NASA APOD API
